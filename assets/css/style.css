@@ -1,0 +1,21 @@
+body{
+    background-size:cover;
+    color: white;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    color: white;
+}
+input{
+    text-align: center;
+}
+#choices{
+    width:500px;
+}
+#timesUp{
+    font-size: 100px;
+}
